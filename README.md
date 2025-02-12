@@ -2,3 +2,5 @@
 I propose you a litlle python code to convert cnc file from fusion360 for snapmarker to nc file to do non planar laser engraving
 
 More detail here : https://forum.snapmaker.com/t/guide-for-non-planar-laser-engraving/25120
+
+Work on python 3.9 or higher with built-in functions
